@@ -1,12 +1,9 @@
 # aWatch App
 
 [![Latest Release](https://img.shields.io/github/v/release/ayMissouri/aWatch-App)](https://github.com/ayMissouri/aWatch-App/releases/latest)
+[![VirusTotal](https://img.shields.io/badge/-VirusTotal-%23394EFF?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/95ae1b0adc4065e72076917b908bae249dab4259c9bcc4e3c43a5fefc652e0c1?nocache=1)
 
 The official windows App for [aWatch](https://www.awatch.fun) that allows you to browse through content.
-
-[VirusTotal](https://www.virustotal.com/gui/file/95ae1b0adc4065e72076917b908bae249dab4259c9bcc4e3c43a5fefc652e0c1?nocache=1)
-
-[Download](https://github.com/ayMissouri/aWatch-App/releases/download/Latest/aWatch.msi)
 
 ## Table of Contents
 
@@ -16,13 +13,13 @@ The official windows App for [aWatch](https://www.awatch.fun) that allows you to
 
 ## Features
 
-- [Easily see top airing movies and tv shows from the homepage.](#homepage)
-- [View details about shows such as genres, synopsis and trailer.](#details)
-- [Search through all content filtered by movies or series.](#search)
-- [Easy to use videoplayer.](#videoplayer)
-- [Save shows for later with bookmarks.](#tracking)
-- [Resume where you left off for both movies and tv shows.](#tracking)
-- [Customisable subtitles](#subtitles)
+- Easily see top airing movies and tv shows from the [homepage](#homepage).
+- View [details](#details) about shows such as genres, synopsis and trailer.
+- [Search](#search) through all content filtered by movies or series.
+- Easy to use [videoplayer](#videoplayer).
+- Save shows for later with [bookmarks](#tracking).
+- [Resume](#tracking) where you left off for both movies and tv shows.
+- Customisable [subtitles](#subtitles).
 
 ## Installation
 

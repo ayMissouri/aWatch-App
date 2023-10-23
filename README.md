@@ -30,7 +30,7 @@ The official windows App for [aWatch](https://www.awatch.fun) that allows you to
 ## Screenshots
 
 ### Homepage
-![search page](https://github.com/ayMissouri/aWatch-App/assets/97270701/552b3aff-f7f1-4d56-becd-b9082f1fece3)
+![homepage](https://github.com/ayMissouri/aWatch-App/assets/97270701/b50dd2f7-88f7-469f-a7eb-198d3223154e)
 ### Details
 ![details page](https://github.com/ayMissouri/aWatch-App/assets/97270701/311d9705-2337-488c-94c1-3e6a78de4977)
 ### Search
